@@ -1,8 +1,9 @@
 .metadata
-*.bcm
-*.bpo
-*.bpr
-*.bps
-*.bum
-*.bcc
-*.buc
+.DS_Store
+# *.bcm
+# *.bpo
+# *.bpr
+# *.bps
+# *.bum
+# *.bcc
+# *.buc
