@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<org.eventb.core.poFile org.eventb.core.poStamp="7">
+<org.eventb.core.poFile org.eventb.core.poStamp="8">
     <org.eventb.core.poPredicateSet name="CTXHYP" org.eventb.core.poStamp="7">
         <org.eventb.core.poIdentifier name="d" org.eventb.core.type="ℤ"/>
         <org.eventb.core.poPredicate name="e" org.eventb.core.predicate="d∈ℕ" org.eventb.core.source="/eventb_practice/ct1.buc|org.eventb.core.contextFile#ct1|org.eventb.core.axiom#("/>
@@ -14,7 +14,7 @@
         <org.eventb.core.poPredicate name="p" org.eventb.core.predicate="n≤d" org.eventb.core.source="/eventb_practice/mach1.bum|org.eventb.core.machineFile#mach1|org.eventb.core.invariant#-"/>
         <org.eventb.core.poPredicate name="q" org.eventb.core.predicate="n&lt;d∨0&lt;n" org.eventb.core.source="/eventb_practice/mach1.bum|org.eventb.core.machineFile#mach1|org.eventb.core.invariant#0"/>
     </org.eventb.core.poPredicateSet>
-    <org.eventb.core.poSequent name="inv6/THM" org.eventb.core.accurate="true" org.eventb.core.poDesc="Theorem" org.eventb.core.poStamp="7">
+    <org.eventb.core.poSequent name="thm1/THM" org.eventb.core.accurate="true" org.eventb.core.poDesc="Theorem" org.eventb.core.poStamp="8">
         <org.eventb.core.poPredicateSet name="SEQHYP" org.eventb.core.parentSet="/eventb_practice/mach2.bpo|org.eventb.core.poFile#mach2|org.eventb.core.poPredicateSet#HYPct9"/>
         <org.eventb.core.poPredicate name="SEQHYQ" org.eventb.core.predicate="c&gt;0∨a&gt;0∨(a+b&lt;d∧c=0)∨(b&gt;0∧a=0)" org.eventb.core.source="/eventb_practice/mach2.bum|org.eventb.core.machineFile#mach2|org.eventb.core.invariant#8"/>
         <org.eventb.core.poSource name="SEQHYR" org.eventb.core.poRole="DEFAULT" org.eventb.core.source="/eventb_practice/mach2.bum|org.eventb.core.machineFile#mach2|org.eventb.core.invariant#8"/>
